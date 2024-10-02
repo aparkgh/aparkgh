@@ -1,6 +1,6 @@
 # 🍒 About Me
 
-## 👋 Hey, I'm Andrew
+## 👋 Hey, I'm Andrew Park
 
 I'm currently a USYD student with a passion for computers and tech. I can also play a bit of piano and have a dog called Scooter.
 
@@ -20,13 +20,9 @@ I have a cool setup :P
 
 <img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="500"/>
 
-240hz @ 1080p + 165hz @ 1080p
+- 240hz @ 1080p + 165hz @ 1080p
+- RTX 3080 + i5-13600KF, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
+- Shure SM7B + Rode PSA-1 → SSL 2 interface, Beyerdynamic DT 990 Pro (250 Ohm)
+- NK65 (Milkshake Edition) + Logitech G Pro X Superlight
 
-RTX 3080 + i5-13600KF, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-
-Shure SM7B + Rode PSA-1 → SSL 2 interface, Beyerdynamic DT 990 Pro (250 Ohm)
-
-NK65 (Milkshake Edition) + Logitech G Pro X Superlight
-
-
-Check out some of my little projects and follow my friends!
+Check out some of my little projects! and follow my friends :)
