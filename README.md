@@ -22,7 +22,7 @@ I have a cool setup :P
 
 - 240hz @ 1080p + 165hz @ 1080p
 - RTX 3080 + i5-13600KF, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-- Shure SM7B + Rode PSA-1 → SSL 2 interface, Beyerdynamic DT 990 Pro (250 Ohm)
-- NK65 (Milkshake Edition) + Custom Tofu60 w/ Boba U4Ts + Logitech G Pro X Superlight
+- Shure SM7B + Rode PSA-1 → SSL 2 interface
+- NK65 (Milkshake Edition) + Custom Tofu60 w/ Boba U4Ts + Logitech G Pro X Superlight + Beyerdynamic DT 990 Pro (250 Ohm)
 
 Check out some of my little projects! and follow my friends :)
