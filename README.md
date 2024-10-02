@@ -12,8 +12,10 @@ I'm currently a USYD student with a passion for computers and tech. I can also p
 
 ### 🌱 I'm Currently Learning:
 - Dvorak keyboard layout
-- Polonaise in A-flat Major, Op. 53
+- Scherzo No. 2 in B Flat Minor, Op. 31
 - Ballade No. 1 in G Minor, Op. 23
+- Polonaise in A-flat Major, Op. 53
+
 
 ### 🌟 Fun Fact:
 I have a cool setup :P
