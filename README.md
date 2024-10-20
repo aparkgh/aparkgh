@@ -1,9 +1,20 @@
+![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&custom_title=apark)(https://data-card-for-spotify.herokuapp.com/card?user_id=229ll5brg0pwf57snpkikhd0r)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<!--https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file-->
+<!--https://github.com/Platane/snk?tab=readme-ov-file-->
+
+<!--
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+-->
 
 # 🍒 About Me
 
 ## 👋 Hey, I'm Andrew Park
+
+<!--https://github.com/satyawikananda/cardivo-->
+![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hi,%20welcome%20to%20my%20profile!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea)
 
 I'm currently a USYD student with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
 
@@ -33,5 +44,16 @@ I have a cool setup :P
 - Beyerdynamic DT 990 Pro (250 Ohm)
 - Logitech G Pro X Superlight
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20%3A%29&fontSize=50)
+
+
 
 Check out some of my little projects! and follow my friends :)
+
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+-->
