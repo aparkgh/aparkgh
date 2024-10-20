@@ -15,7 +15,7 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hi,%20welcome%20to%20my%20profile!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea)
 
-I'm currently a USYD student with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
+I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
 
