@@ -20,6 +20,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
 ### 🚀 Currently Working On:
 - Recreation of Inkball in Java using Gradle
 - Creating my own mock travel website in HTML/CSS/JavaScript
@@ -44,7 +45,12 @@ I have a cool setup :P
 - Beyerdynamic DT 990 Pro (250 Ohm)
 - Logitech G Pro X Superlight
 
-Check out some of my little projects! and follow my friends :)
+</br>
+</br>
+
+..check out some of my little projects! and follow my friends :)
+
+</br>
 
 <!--https://github.com/magic-ike/spotify-data-card?tab=readme-ov-file-->
 ![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&show_border=1&hide_title=1)
