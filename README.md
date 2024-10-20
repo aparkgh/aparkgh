@@ -17,8 +17,9 @@
 
 I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 ### 🚀 Currently Working On:
 - Recreation of Inkball in Java using Gradle
 - Creating my own mock travel website in HTML/CSS/JavaScript
