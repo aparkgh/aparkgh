@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Andrew Park
 
-I'm currently a USYD student with a passion for computers and tech. I can also play piano and have a small dog named Scooter 🐕
+I'm currently a USYD student with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
 
 ### 🚀 Currently Working On:
 - Recreation of Inkball in Java using Gradle
