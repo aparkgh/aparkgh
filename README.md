@@ -1,4 +1,3 @@
-![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&custom_title=apark)(https://data-card-for-spotify.herokuapp.com/card?user_id=229ll5brg0pwf57snpkikhd0r)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--https://github.com/anmol098/waka-readme-stats?tab=readme-ov-file-->
@@ -44,12 +43,12 @@ I have a cool setup :P
 - Beyerdynamic DT 990 Pro (250 Ohm)
 - Logitech G Pro X Superlight
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20%3A%29&fontSize=50)
-
-
+<!--https://github.com/magic-ike/spotify-data-card?tab=readme-ov-file-->
+![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&show_border=1&hide_title=1)
 
 Check out some of my little projects! and follow my friends :)
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20%3A%29&fontSize=50)
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
