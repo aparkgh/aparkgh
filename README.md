@@ -16,15 +16,14 @@ I'm currently a USYD student with a passion for computers and tech. I can also p
 - Ballade No. 1 in G Minor, Op. 23
 - Polonaise in A-flat Major, Op. 53
 
-
 ### 🌟 Fun Fact:
 I have a cool setup :P
 
 <img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
 
 - 240hz @ 1080p + 165hz @ 1080p
-- RTX 3080 + i5-13600KF, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-- NK65 (Milkshake Edition) + Custom Tofu60 w/ Boba U4Ts
+- i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
+- NK65 Milkshake Edition + Custom Tofu60 w/ KTT Kang Whites (krytox 205g0, springs lubed w/ gpl 105)
 - Shure SM7B + Rode PSA-1 → SSL 2 interface
 - Beyerdynamic DT 990 Pro (250 Ohm)
 - Logitech G Pro X Superlight
