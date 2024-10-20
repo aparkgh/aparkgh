@@ -23,7 +23,7 @@ I have a cool setup :P
 
 - 240hz @ 1080p + 165hz @ 1080p
 - i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-- NK65 Milkshake Edition + Custom Tofu60 w/ KTT Kang Whites (krytox 205g0, springs lubed w/ gpl 105)
+- NK65 Milkshake Edition + Custom Tofu60 w/ KTT Kang Whites (lubed w/ 205g0 + 105 on springs)
 - Shure SM7B + Rode PSA-1 → SSL 2 interface
 - Beyerdynamic DT 990 Pro (250 Ohm)
 - Logitech G Pro X Superlight
