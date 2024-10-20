@@ -15,7 +15,7 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hi,%20welcome%20to%20my%20profile!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea)
 
-I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time - I can also play piano and have a small dog named Scooter 🐕
+I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time!
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
@@ -33,9 +33,13 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - Ballade No. 1 in G Minor, Op. 23
 - Polonaise in A-flat Major, Op. 53
 
-### 🌟 Fun Fact:
-I have a cool setup :P
+### 🌟 Fun Facts:
+- Really into keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
+- Hit Ascendant 1 in Valorant, consistent Ultimate Champion + peak #71 Australia in Clash Royale, peak #1 Pam Australia in Brawl Stars
+- I've been playing piano for 10+ years
+- I have small white maltese terrier named Scooter! 🐩
 
+### 🖥️ Desk Setup:
 <img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
 
 - 240hz @ 1080p + 165hz @ 1080p
