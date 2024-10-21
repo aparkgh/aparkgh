@@ -12,7 +12,7 @@
 ## 👋 Hey, I'm Andrew Park
 
 <!--https://github.com/satyawikananda/cardivo-->
-![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hi,%20welcome%20to%20my%20profile!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea)
+![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hi,%20welcome%20to%20my%20profile!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea&site=)
 
 I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time!
 
