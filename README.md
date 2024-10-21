@@ -33,8 +33,8 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - Polonaise in A-flat Major, Op. 53
 
 ### 🌟 Fun Facts:
-- Really into keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
-- Hit Ascendant 1 in Valorant, consistent Ultimate Champion + peak #71 Australia in Clash Royale, peak #1 Pam Australia in Brawl Stars
+- I'm really into keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
+- I've hit Ascendant 1 in Valorant, consistent Ultimate Champion + peak #71 Australia in Clash Royale, peak #1 Pam Australia in Brawl Stars
 - I've been playing piano for 10+ years
 - I have small white maltese terrier named Scooter! 🐩
 
