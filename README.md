@@ -28,6 +28,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 
 ### 🌱 I'm Currently Learning:
 - Dvorak keyboard layout
+- Autumn Leaves / Other jazz pieces
 - Scherzo No. 2 in B Flat Minor, Op. 31
 - Ballade No. 1 in G Minor, Op. 23
 - Polonaise in A-flat Major, Op. 53
