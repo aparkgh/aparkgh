@@ -20,6 +20,16 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
+### 🖥️ Desk Setup:
+<img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
+
+- 240hz @ 1080p + 165hz @ 1080p
+- i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
+- NK65 Milkshake Edition w/ NovelKeys Silk Yellows + Custom Tofu60 w/ KTT Kang Whites (lubed w/ 205g0 + 105 on springs)
+- Shure SM7B + Rode PSA-1 + SSL 2
+- Beyerdynamic DT 990 Pro (250 Ohm)
+- Logitech G Pro X Superlight w/ Tiger Ice skates
+
 ### 🚀 Currently Working On:
 - Recreation of Inkball in Java using Gradle
 - Creating my own mock travel website in HTML/CSS/JavaScript
@@ -39,17 +49,6 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - I've been playing piano for 10+ years
 - I have small white maltese terrier named Scooter!
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
-
-
-### 🖥️ Desk Setup:
-<img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
-
-- 240hz @ 1080p + 165hz @ 1080p
-- i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-- NK65 Milkshake Edition w/ NovelKeys Silk Yellows + Custom Tofu60 w/ KTT Kang Whites (lubed w/ 205g0 + 105 on springs)
-- Shure SM7B + Rode PSA-1 + SSL 2
-- Beyerdynamic DT 990 Pro (250 Ohm)
-- Logitech G Pro X Superlight w/ Tiger Ice skates
 
 </br>
 </br>
