@@ -37,7 +37,9 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - I'm really into keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
 - I've hit Ascendant 1 in Valorant, consistent Ultimate Champion + peak #71 Australia in Clash Royale, peak #1 Pam Australia in Brawl Stars
 - I've been playing piano for 10+ years
-- I have small white maltese terrier named Scooter! 🐩
+- I have small white maltese terrier named Scooter!
+<img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
+
 
 ### 🖥️ Desk Setup:
 <img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
@@ -55,6 +57,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 ..check out some of my little projects! and follow my friends :)
 
 </br>
+
 
 <!--https://github.com/magic-ike/spotify-data-card?tab=readme-ov-file-->
 ![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&show_border=1&hide_title=1)
