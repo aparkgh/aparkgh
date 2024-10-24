@@ -37,6 +37,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
+- C / C++, JavaScript, HTML, CSS
 - Dvorak keyboard layout
 - Autumn Leaves / Other jazz pieces
 - Scherzo No. 2 in B Flat Minor, Op. 31
