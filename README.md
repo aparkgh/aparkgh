@@ -44,10 +44,11 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - Polonaise in A-flat Major, Op. 53
 
 ### 🌟 Fun Facts:
-- I'm really into keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
-- I've hit Ascendant 1 in Valorant, consistent Ultimate Champion + peak #71 Australia in Clash Royale, peak #1 Pam Australia in Brawl Stars
-- I've been playing piano for 10+ years
-- I have small white maltese terrier named Scooter!
+- I'm really into PC and keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
+- I've hit Ascendant 1 in Valorant, consistent Ultimate Champion and peaked #71 Australia in Clash Royale, peaked #1 Pam Australia in Brawl Stars
+- My favourite books are Atomic Habits by James Clear and Big Book of Numbers by Adam Spencer
+- I've been playing piano for 10+ years and play mostly classical pieces
+- I have small white maltese terrier named Scooter
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
 
 </br>
