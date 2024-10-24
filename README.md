@@ -32,7 +32,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 
 ### 🚀 Currently Working On:
 - Recreation of Inkball in Java using Gradle
-- Creating my own mock travel website in HTML/CSS/JavaScript
+- Creating a small travel website in HTML/CSS/JavaScript
 - Programming my own snake game using an Arduino Pro Mini, a LED matrix display and a controller
 - ... some secret stuff 👀
 
@@ -50,6 +50,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - My favourite books are Atomic Habits by James Clear and Big Book of Numbers by Adam Spencer
 - I've been playing piano for 10+ years and play mostly classical pieces
 - I have small white maltese terrier named Scooter
+
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
 
 </br>
