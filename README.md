@@ -31,7 +31,7 @@ I'm currently a first-year student at USYD with a passion for computers and tech
 - Logitech G Pro X Superlight w/ Tiger Ice skates
 
 ### 🚀 Currently Working On:
-- Recreation of Inkball in Java using Gradle
+- ~~Recreation of Inkball in Java using Gradle~~
 - Creating a small travel website in HTML/CSS/JavaScript
 - Programming my own snake game using an Arduino Pro Mini, a LED matrix display and a controller
 - ... some secret stuff 👀
