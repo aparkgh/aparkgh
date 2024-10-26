@@ -16,7 +16,7 @@
 
 I'm currently a 19 year-old first year student at USYD with a passion for computers and tech.
 
-I currently enjoy developing games and software applications and plan on making more projects (potentially collaborations) in the near future.
+I currently enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future.
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
