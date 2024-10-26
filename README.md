@@ -14,7 +14,9 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hey%2C%20welcome%20to%20my%20profile%21%20Check%20out%20some%20of%20my%20little%20projects%20I%27ve%20made%20%F0%9F%AB%A1&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea&site=&disableAnimation=false)
 
-I'm currently a 19 year-old first year student at USYD with a passion for computers and tech. I like working on small projects from time to time!
+I'm currently a 19 year-old first year student at USYD with a passion for computers and tech.
+
+I currently enjoy developing games and software applications and plan on making more projects (potentially collaborations) in the near future.
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
@@ -37,7 +39,7 @@ I'm currently a 19 year-old first year student at USYD with a passion for comput
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
-- C / C++, JavaScript, HTML, CSS
+- C / C++, Java, HTML, CSS
 - Dvorak keyboard layout
 - Autumn Leaves / Other jazz pieces
 - Scherzo No. 2 in B Flat Minor, Op. 31
@@ -45,6 +47,7 @@ I'm currently a 19 year-old first year student at USYD with a passion for comput
 - Polonaise in A-flat Major, Op. 53
 
 ### 🌟 Fun Facts:
+- My first languages I ever learnt was Batch and VBScript
 - I'm really into PC and keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts with KTT Kang Whites
 - I've hit Ascendant 1 in Valorant, consistent Ultimate Champion and peaked #71 Australia in Clash Royale, peaked #1 Pam Australia in Brawl Stars
 - My favourite books are Atomic Habits by James Clear and Big Book of Numbers by Adam Spencer
