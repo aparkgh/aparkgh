@@ -14,7 +14,7 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hey%2C%20welcome%20to%20my%20profile%21%20Check%20out%20some%20of%20my%20little%20projects%20I%27ve%20made%20%F0%9F%AB%A1&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea&site=&disableAnimation=false)
 
-I'm currently a first-year student at USYD with a passion for computers and tech. I like working on small projects from time to time!
+I'm currently a 19 year-old first year student at USYD with a passion for computers and tech. I like working on small projects from time to time!
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
