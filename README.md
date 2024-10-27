@@ -16,7 +16,7 @@
 
 I'm currently a 19 year-old first year student at USYD. I like playing piano and reading books in my free time 🙂
 
-I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Microsoft Inkball game in Java, go check it out!
+I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Microsoft Inkball game in Java, go check it out ✌️
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
