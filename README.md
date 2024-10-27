@@ -33,7 +33,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Logitech G Pro X Superlight w/ Tiger Ice skates
 
 ### 🚀 Currently Working On:
-- ~~Recreation of Inkball in Java using Gradle~~
+- ~~Recreating of Inkball in Java~~
 - Creating a small travel website in HTML/CSS/JavaScript
 - Programming my own snake game using an Arduino Pro Mini, a LED matrix display and a controller
 - ... some secret stuff 👀
