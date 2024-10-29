@@ -52,6 +52,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - I've hit Ascendant 1 in Valorant, consistent Ultimate Champion and peaked #71 Australia in Clash Royale, peaked #1 Pam Australia in Brawl Stars
 - My favourite books are Atomic Habits by James Clear and Big Book of Numbers by Adam Spencer
 - I've been playing piano for 10+ years and play mostly classical pieces
+- I can squat 3 plates lol
 - I have small white maltese terrier named Scooter
 
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
