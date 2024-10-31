@@ -45,6 +45,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Scherzo No. 2 in B Flat Minor, Op. 31
 - Ballade No. 1 in G Minor, Op. 23
 - Polonaise in A-flat Major, Op. 53
+- Chopin - Etude Op. 10 No. 5
 
 ### 🌟 Fun Facts:
 - My first languages I ever learnt was Batch and VBScript
