@@ -36,7 +36,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Programming my own snake game using an Arduino Pro Mini, a LED matrix display and a controller
 - Creating a small travel website in HTML/CSS/JavaScript
 - Small projects with VBSCript
-- An iOS App and a minecraft mod
+- Digital Music Sequencer (Webapp)
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
