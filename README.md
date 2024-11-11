@@ -28,8 +28,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - 240hz @ 1080p + 165hz @ 1080p
 - i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
 - NK65 Milkshake Edition w/ NovelKeys Silk Yellows + Custom Tofu60 w/ KTT Kang Whites (lubed w/ 205g0 + 105 on springs)
-- Shure SM7B + Rode PSA-1 + SSL 2
-- Beyerdynamic DT 990 Pro (250 Ohm)
+- Shure SM7B + Rode PSA-1 + Beyerdynamic DT 990 Pro (250 Ohm) (Equaliser APO + Peace | oratory1990) + SSL 2
 - Logitech G Pro X Superlight w/ Tiger Ice skates
 
 ### 🚀 Currently Working On:
@@ -40,7 +39,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
-- C / C++, Java, HTML, CSS
+- Java, HTML, CSS, C, C++ (Arduino)
 - Colemak DH keyboard layout
 - Autumn Leaves / Other jazz pieces
 - Scherzo No. 2 in B Flat Minor, Op. 31
