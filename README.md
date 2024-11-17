@@ -39,8 +39,8 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
-- Java, HTML, CSS, C, C++ (Arduino)
 - 💧 Rain keyboard layout
+- Java, HTML, CSS, C, C++ (Arduino)
 - Autumn Leaves / Other jazz pieces
 - Scherzo No. 2 in B Flat Minor, Op. 31
 - Ballade No. 1 in G Minor, Op. 23
