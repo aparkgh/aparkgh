@@ -32,7 +32,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Logitech G Pro X Superlight w/ Tiger Ice skates
 
 ### 🚀 Currently Working On:
-- Programming my own snake game using an Arduino Pro Mini, a LED matrix display and a controller
+- Programming my own snake game using an Arduino Pro Mini, an LED matrix display and a controller
 - Creating a small travel website in HTML/CSS/JavaScript
 - Small projects with VBSCript
 - Digital Music Sequencer (Webapp)
