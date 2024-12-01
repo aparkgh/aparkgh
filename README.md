@@ -43,11 +43,12 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🌱 I'm Currently Learning:
 - Rain💧 keyboard layout
 - Java, C, C++ (Arduino)
-- Autumn Leaves
-- Scherzo No. 2 in B Flat Minor, Op. 31
-- Ballade No. 1 in G Minor, Op. 23
-- Polonaise in A-flat Major, Op. 53 (Heroic Polonaise)
-- Etude Op. 10 No. 5 (Black Keys)
+- Photography and Videography
+- Piano pieces:
+  - Scherzo No. 2 in B Flat Minor, Op. 31
+  - Ballade No. 1 in G Minor, Op. 23
+  - Polonaise in A-flat Major, Op. 53 (Heroic Polonaise)
+  - Etude Op. 10 No. 5 (Black Keys)
 
 ### 🌟 Fun Facts:
 - My first languages I ever learnt was Batch and VBScript
