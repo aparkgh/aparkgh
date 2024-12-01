@@ -41,7 +41,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - ... some secret stuff 👀
 
 ### 🌱 I'm Currently Learning:
-- 💧 Rain keyboard layout
+- Rain💧 keyboard layout
 - Java, HTML, CSS, C, C++ (Arduino)
 - Autumn Leaves
 - Scherzo No. 2 in B Flat Minor, Op. 31
