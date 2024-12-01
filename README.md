@@ -52,8 +52,8 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🌟 Fun Facts:
 - My first languages I ever learnt was Batch and VBScript
 - I'm into PC and keyboard building, currently rebuilding an old keyboard with Gazzew Boba U4Ts using KTT Kang Whites
-- I'm Ascendant in Valorant, Ultimate Champion (9x) and peaked #71 Australia in Clash Royale, peaked #1 Pam Australia in Brawl Stars
-- My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer and Why We Sleep by Matthew Walker
+- I'm Ascendant in Valorant, Ultimate Champion (9x) and peaked #71 Australia in Clash Royale, and peaked #1 Pam Australia in Brawl Stars
+- My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
 - I've been playing piano for 10+ years and play mostly classical pieces
 - I can squat 3 plates lol
 - I have small white maltese terrier named Scooter
