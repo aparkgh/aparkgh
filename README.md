@@ -35,7 +35,6 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Razer Mouse Bungee V3 Chroma
 
 ### 🚀 Currently Working On:
-- Programming my own snake game using an Arduino Pro Mini, an LED matrix display and a controller
 - Developing a Digital Music Sequencer (Webapp)
 - Small projects with VBScript
 - ... some secret stuff 👀
