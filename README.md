@@ -32,8 +32,8 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Sony Alpha A6400 w/ 16-50mm Lens + SanDisk 256GB Extreme PRO SDXC + JOBY GorillaPod 500 + Elgato Cam Link 4K
 - Canon EOS 600D w/ 18-55, 55-250 Lens, 58mm UV Filter, 58mm DC(II) Hood + SanDisk 8GB SDHC
 - Logitech G Pro X Superlight w/ Tiger Ice skates
-- Nanoleaf Shapes - Triangles
 - Razer Mouse Bungee V3 Chroma
+- Nanoleaf Shapes - Triangles
 
 ### 🚀 Currently Working On:
 - Developing a Digital Music Sequencer (Webapp)
