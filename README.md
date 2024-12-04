@@ -58,7 +58,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - I've been playing piano for 10+ years and play mostly classical pieces
 - My favourite food is 떡볶이
 - I'm Ascendant in Valorant, Ultimate Champion (9x) and peaked #71 Australia in Clash Royale, and peaked #1 Pam Australia in Brawl Stars
-- I've been working out for almost two years and my squat pr is 3 plates
+- I've been working out for almost two years (315 squat, 154 bench)
 - I have a dog named Scooter!
 
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
