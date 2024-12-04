@@ -66,7 +66,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 </br>
 </br>
 
-..check out some of my little projects! and maybe chuck a follow?
+..check out some of my repos! and maybe chuck a follow?
 
 </br>
 
