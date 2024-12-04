@@ -16,7 +16,7 @@
 
 I'm a 19 year-old first year student from South Korea studying a Bachelors of Interaction Design at USYD.
 
-I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Snake game on an Arduino, go check it out ✌️
+I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Snake game in Arduino, go check it out ✌️
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
