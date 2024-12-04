@@ -56,9 +56,9 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
 - I have a cologne collection, my favourite colognes are Layton by Parfums De Marly and Maison Margiela Jazz Club
 - I've been playing piano for 10+ years and play mostly classical pieces
-- My favourite food is 떡볶이
 - I'm Ascendant in Valorant, Ultimate Champion (9x) and peaked #71 Australia in Clash Royale, and peaked #1 Pam Australia in Brawl Stars
 - I've been working out for almost two years (315 squat, 154 bench)
+- My favourite food is 떡볶이
 - I have a dog named Scooter!
 
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
