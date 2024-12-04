@@ -30,7 +30,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - NK65 Milkshake Edition w/ Silk Yellows (205g0) + Custom Tofu60 w/ KTT Kang Whites (205g0 + 105 on springs)
 - Shure SM7B + Rode PSA-1 + Beyerdynamic DT 990 Pro (250 Ohm) (Equaliser APO + Peace | oratory1990 preset) + SSL 2
 - Sony Alpha A6400 w/ 16-50mm Lens + SanDisk 256GB Extreme PRO SDXC + JOBY GorillaPod 500 + Elgato Cam Link 4K
-- Canon EOS 600D w/ 18-55, 55-250 Lens, 58mm UV Filter, 58mm DC(II) Hood + SanDisk 8GB SDHC
+- Canon EOS 600D w/ 18-55mm, 55-250mm Lens, 58mm UV Filter, 58mm DC(II) Hood + SanDisk 8GB SDHC
 - Logitech G Pro X Superlight w/ Tiger Ice skates
 - Razer Mouse Bungee V3 Chroma
 - Nanoleaf Shapes - Triangles
