@@ -53,12 +53,13 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🌟 Fun Facts:
 - My first languages I ever learnt was Batch and VBScript
 - My favourite food is 떡볶이 and my favourite song is Espresso by Sabrina Carpenter
-- I like playing piano and reading books in my free time, and I'm also into PC and keyboard building and photography
+- I like playing piano and reading books in my free time, and I'm into PC and keyboard building and photography
 - My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
 - I like collecting cologne, my favourite colognes are Parfums De Marly's Layton and Maison Margiela's Jazz Club
 - I've been playing piano for 10+ years and play mostly classical pieces
 - I'm Ascendant in Valorant, Ultimate Champion (9x) and peaked #71 Australia in Clash Royale, and peaked #1 Pam Australia in Brawl Stars
 - I've been working out for almost two years (315 squat, 154 bench)
+- My personality type is ENTJ-A
 - I have a dog named Scooter!
 
 <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
