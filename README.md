@@ -53,7 +53,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🌟 Fun Facts:
 - My first languages I ever learnt was Batch and VBScript
 - My favourite food is 떡볶이 and my favourite song is Until I Found You (Em Beihold Version) by Stephen Sanchez
-- I like playing piano and reading books in my free time, and I'm into PC and keyboard building and photography
+- I like playing piano and reading books in my free time, and I'm into PC and keyboard building, speedtyping and photography
 - My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
 - I like collecting cologne, my favourite colognes are Parfums De Marly's Layton and Maison Margiela's Jazz Club
 - I've been playing piano for 10+ years and play mostly classical pieces
