@@ -37,6 +37,8 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 ### 🚀 Currently Working On:
 - Developing a Digital Music Sequencer (Webapp)
+- PDF to Audiobook converter
+- Personality Type Checker
 - Small projects with VBScript
 - ... some secret stuff 👀
 
