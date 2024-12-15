@@ -14,7 +14,7 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=Hey%21%20Check%20out%20some%20of%20the%20little%20projects%20I%27ve%20made%20%F0%9F%AB%A1&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea&site=&disableAnimation=false)
 
-I'm a 19 year-old first year student from South Korea studying at USYD.
+I'm a 19 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
 
 I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Snake game in Arduino, go check it out ✌️
 
