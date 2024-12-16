@@ -48,6 +48,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🌱 I'm Currently Learning:
 - 💧Rain keyboard layout
 - Java, C, C++ (Arduino)
+- JavaScript (Vue.js)
 - Piano pieces:
   - A Cruel Angel's Thesis (arr. Animenz)
   - Scherzo No. 2 in B Flat Minor, Op. 31
