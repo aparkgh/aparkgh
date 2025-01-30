@@ -57,7 +57,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 ### 🌟 Fun Facts:
 - My first languages I ever learnt were Batch and VBScript
-- My favourite food is 감자탕 and my favourite song is Pluto Projector by Rex Orange County
+- My favourite food is 떡볶이 and my favourite song is Round and Round by Jo Yu-Ri
 - My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
 - My personality type is ENTJ-A
 - I have a dog named Scooter!
