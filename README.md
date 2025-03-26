@@ -16,7 +16,7 @@
 
 I'm a 19 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
 
-I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently recreated the classic Snake game in Arduino, go check it out ✌️
+I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently contributed in developing CrowdFlare, an app which gives UNSW students a way to find populated and high rated areas around the campus, go check it out ✌️
 
 <!--
 ![](https://komarev.com/ghpvc/?username=aparkgh&style=for-the-badge&color=blueviolet&abbreviated=true)
