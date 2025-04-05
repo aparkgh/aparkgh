@@ -30,11 +30,11 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 - 240hz @ 1080p + 165hz @ 1080p
 - i5-13600KF + RTX 3080, 2x16GB 3600MHz, 2TB (r/w @ 7GB/s) + 1TB SSD
-- NK65 Milkshake Edition w/ Silk Yellows (205g0) + Custom Tofu60 w/ KTT Kang Whites (205g0 + 105 on springs)
-- Shure SM7B + Cloudlifter CL-1 + Rode PSA-1 + Beyerdynamic DT 990 Pro (250 Ohm) (Equaliser APO + Peace | oratory1990 preset) + SSL 2
+- NK65 Milkshake Edition w/ NovelKeys Silk Yellows (205g0) + Custom Tofu60 w/ KTT Kang Whites (205g0 + 105 on springs)
+- Shure SM7B + Cloudlifter CL-1 + Rode PSA-1 + Beyerdynamic DT 990 Pro (250 Ohm) (Equaliser APO + Peace GUI | oratory1990 preset) + SSL 2
 - Sony Alpha A6400 w/ 16-50mm Lens + SanDisk 256GB Extreme PRO SDXC + JOBY GorillaPod 500 + Elgato Cam Link 4K
 - Canon EOS 600D w/ 18-55mm, 55-250mm Lens, 58mm UV Filter, 58mm DC(II) Hood + SanDisk 8GB SDHC
-- Logitech G Pro X Superlight w/ Tiger Ice skates
+- Logitech G Pro X Superlight w/ Tiger Ice
 - Razer Mouse Bungee V3 Chroma
 - Nanoleaf Shapes (Triangles)
 - Herman Miller Embody
