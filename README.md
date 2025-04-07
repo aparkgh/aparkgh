@@ -40,6 +40,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Herman Miller Embody
 
 ### 🚀 Currently Working On:
+- Building my own custom mouse
 - Developing a Digital Music Sequencer (Webapp)
 - PDF to Audiobook converter
 - Personality Type Checker
