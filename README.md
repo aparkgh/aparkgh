@@ -37,6 +37,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Logitech G Pro X Superlight w/ Tiger Ice
 - Razer Mouse Bungee V3 Chroma
 - Nanoleaf Shapes (Triangles)
+- Neewer NL660 + Softbox
 - Herman Miller Embody
 
 ### 🚀 Currently Working On:
