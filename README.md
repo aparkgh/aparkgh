@@ -43,14 +43,11 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 ### 🚀 Currently Working On:
 - Building my own custom mouse
 - Developing a Digital Music Sequencer (Webapp)
-- PDF to Audiobook converter
-- Personality Type Checker
-- Small projects with VBScript
-- ... some secret stuff 👀
+- ... some secret stuff 🤫
 
 ### 🌱 I'm Currently Learning:
-- Python
 - C
+- Micropython
 - Piano pieces:
   - Unravel (arr. Animenz)
   - A Cruel Angel's Thesis (arr. Animenz)
@@ -71,7 +68,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 </br>
 </br>
 
-..check out some of my repos! and maybe chuck a follow?
+..check out some of my repos! and maybe chuck a follow? 👀
 
 </br>
 
