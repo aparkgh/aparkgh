@@ -42,7 +42,8 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 ### 🚀 Currently Working On:
 - Building my own custom mouse
-- Developing a Digital Music Sequencer (Webapp)
+- Developing a digital music sequencer (Webapp)
+- Developing a parametric equaliser
 - ... some secret stuff 🤫
 
 ### 🌱 I'm Currently Learning:
