@@ -14,7 +14,7 @@
 
 Hey! I'm a 20 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
 
-I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently developed Day Counter, a chrome extension which allows you to turn your new tab page into a productivity page, and my own personal [website](https://aparkgh.github.io/), meant to create the magical and nostalgic Windows 95/XP desktop experience! Go check them out ✌️
+I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently developed Day Counter, a chrome extension which allows you to turn your new tab page into a productivity page, and my own personal [portfolio website](https://aparkgh.github.io/), meant to recreate the magical and nostalgic Windows 95/XP desktop experience! Go check them out ✌️
 
 <!--
 ![](https://komarev.com/ghpvc/?username=aparkgh&style=for-the-badge&color=blueviolet&abbreviated=true)
