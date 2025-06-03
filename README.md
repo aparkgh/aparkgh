@@ -14,7 +14,7 @@
 
 Hey! I'm a 20 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
 
-I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently developed Day Counter, a chrome extension which allows you to turn your new tab page into a productivity page, and my own personal [website](https://aparkgh.github.io/)! Go check them out ✌️
+I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently developed Day Counter, a chrome extension which allows you to turn your new tab page into a productivity page, and my own personal [website](https://aparkgh.github.io/), meant to create the magical and nostalgic Windows 95/XP desktop experience! Go check them out ✌️
 
 <!--
 ![](https://komarev.com/ghpvc/?username=aparkgh&style=for-the-badge&color=blueviolet&abbreviated=true)
@@ -23,7 +23,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 [![trophy](https://github-profile-trophy.vercel.app/?username=aparkgh)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-### 🖥️ Desk Setup:
+### 🖥️ Desk Setup
 <img src="https://github.com/user-attachments/assets/def68e5e-1b2a-4a31-b265-12dda5326fa7" width="400"/>
 
 - 1080p @ 240Hz + 1080p @ 165Hz
@@ -38,13 +38,13 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Neewer NL660 + Softbox
 - Herman Miller Embody
 
-### 🚀 Currently Working On:
+### 🚀 Current Projects
 - Building my own custom mouse
 - Developing a parametric equaliser
 - Developing a digital music sequencer (Webapp)
 - ... some secret stuff 🤫
 
-### 🌱 I'm Currently Learning:
+### 🌱 Currently Learning
 - C
 - Micropython
 - Piano pieces:
@@ -55,7 +55,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
   - Polonaise in A-flat Major, Op. 53 (Heroic Polonaise)
   - Etude Op. 10 No. 5 (Black Keys)
 
-### 🌟 Fun Facts:
+### 🌟 Fun Facts
 - My first languages I ever learnt were Batch and VBScript
 - My favourite food is 떡볶이 and my favourite song is Perfect Night by LE SSERAFIM
 - My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
@@ -66,8 +66,6 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 </br>
 </br>
-
-..check out some of my repos! and maybe chuck a follow? 👀
 
 </br>
 
