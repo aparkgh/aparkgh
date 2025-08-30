@@ -72,7 +72,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 
 
 <!--https://github.com/magic-ike/spotify-data-card?tab=readme-ov-file-->
-![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&show_border=1&hide_title=1)
+<!-- ![Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=229ll5brg0pwf57snpkikhd0r&show_border=1&hide_title=1) -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%20%3A%29&fontSize=50)
 <!--
