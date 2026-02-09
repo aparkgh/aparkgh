@@ -39,7 +39,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - Herman Miller Embody
 
 ### 🚀 Current Projects
-- Building my own custom mice (wireless and wired)
+- Building a motion tracking robot arm
 - Developing a parametric equaliser executable
 - Developing a digital music sequencer (webapp)
 - ... some secret stuff 🤫
@@ -48,18 +48,18 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - C
 - Micropython
 - Piano pieces:
-  - A Cruel Angel's Thesis (arr. Animenz)
+  - Etude Op. 10 No. 5 (Black Keys)
   - Waltz in C Sharp Minor, Op. 64, No. 2
   - Unravel (arr. Animenz)
   - Scherzo No. 2 in B Flat Minor, Op. 31
   - Ballade No. 1 in G Minor, Op. 23
   - Polonaise in A-flat Major, Op. 53 (Heroic Polonaise)
-  - Etude Op. 10 No. 5 (Black Keys)
+  - 
 
 ### 🌟 Fun Facts
 - My first languages I ever learnt were Batch and VBScript
-- My favourite food is 떡볶이 and my favourite song is Perfect Night by LE SSERAFIM and How Beautiful Is She (她) by Youzee Music
-- My favourite books are Atomic Habits by James Clear, Big Book of Numbers by Adam Spencer, and Why We Sleep by Matthew Walker
+- My favourite food is 감자탕 and my favourite song is Perfect Night by LE SSERAFIM and Friday by IU
+- My favourite books are Atomic Habits by James Clear, Why We Sleep by Matthew Walker, Big Book of Numbers by Adam Spencer, and Storm by Brigid Kemmerer
 - My personality type is ENTJ-A
 - I have a dog named Scooter!
 
