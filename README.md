@@ -62,7 +62,7 @@ I enjoy developing games and small scripts and plan on making more projects (pot
 - My personality type is ENTJ-A
 - I have a dog named Scooter!
 
-<img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/>
+<!-- <img src="https://github.com/user-attachments/assets/2f746a7d-b8e9-4562-915c-eff3a04d566c" width="200"/> -->
 
 </br>
 </br>
