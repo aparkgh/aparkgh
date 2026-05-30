@@ -12,7 +12,7 @@
 <!--https://github.com/satyawikananda/cardivo-->
 ![Andrew Park's card name](https://cardivo.vercel.app/api?name=Andrew%20Park&description=hey%21%20welcome%20to%20my%20profile%20%F0%9F%AB%A1&image=https://avatars.githubusercontent.com/u/40168823?v=4&backgroundColor=%23ecf0f1&instagram=andrew_parkk%20|%20&linkedin=andrewpark-%20|%20&github=aparkgh&pattern=ticTacToe&colorPattern=%23eaeaea&site=&disableAnimation=false)
 
-Hey! I'm a 10 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
+Hey! I'm a 21 year-old first year student from South Korea studying a Bachelors of Advanced Computing at USYD.
 
 I enjoy developing games and small scripts and plan on making more projects (potentially collaborations) in the near future. I recently developed Day Counter, a chrome extension which allows you to turn your new tab page into a productivity page, and my own personal [portfolio website](https://aparkgh.github.io/), meant to recreate the magical and nostalgic Windows 95/XP desktop experience! Go check them out ✌️
 
